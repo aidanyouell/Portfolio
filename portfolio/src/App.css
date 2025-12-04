@@ -1,0 +1,11 @@
+main {
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  width: 100%;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+#all {
+  font-family: "Playwrite NO", cursive;
+}
