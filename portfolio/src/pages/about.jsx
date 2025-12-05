@@ -58,13 +58,11 @@ export default function AboutPage() {
                     <p>Here are some of the technologies and tools I use regularly:</p>
                     <div className="skills-list">
                         <span>React</span>
-                        <span>JavaScript (ES6+)</span>
+                        <span>JavaScript</span>
                         <span>HTML & CSS</span>
-                        <span>Vite</span>
-                        <span>Node.js</span>
-                        <span>TypeScript</span>
-                        <span>Git</span>
-                        <span>Design Systems</span>
+                        <span>Adobe Suite</span>
+                        <span>Sketchup</span>
+                        <span>Craftsmanship</span>
                     </div>
                 </div>
                 <div className="image">
